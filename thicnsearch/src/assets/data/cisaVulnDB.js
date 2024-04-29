@@ -1,3 +1,6 @@
+import React from "react";
+
+const CISAcve = [
 {
     "title": "CISA Catalog of Known Exploited Vulnerabilities",
     "catalogVersion": "2024.04.24",
@@ -13230,3 +13233,4 @@
         }
     ]
 }
+];
